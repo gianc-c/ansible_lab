@@ -1,2 +1,2 @@
 # ansible_lab
-Learning Ansible
+This repo is for learning purposes. This is my first time playing with Ansible.
